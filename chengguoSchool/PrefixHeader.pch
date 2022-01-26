@@ -1,0 +1,33 @@
+//
+//  PrefixHeader.pch
+//  chengguoSchool
+//
+//  Created by 王俊钢 on 2021/11/22.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "TabBarController.h"
+#import "BaseNavigationController.h"
+#import "HomeVC.h"
+#import "SchoolHeader.h"
+#import <Masonry/Masonry.h>
+#import "YBPopupMenu.h"
+#import <FSCalendar/FSCalendar.h>
+#import <AVFoundation/AVFoundation.h>
+#import <Photos/PHPhotoLibrary.h>
+#import "tasksChooseImgModel.h"
+#import "SPDateTimePickerView.h"
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import "Public.h"
+#import "UIButton+ClickRange.h"
+#import "SVProgressHUD+Extention.h"
+#import <CoreLocation/CoreLocation.h>
+#import "studentlistCell.h"
+#import "studentlistHeadView.h"
+#import <YYModel/YYModel.h>
+#import "studentModel.h"
+
+
+#endif /* PrefixHeader_pch */

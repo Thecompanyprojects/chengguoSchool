@@ -1,0 +1,40 @@
+PODS:
+  - DZNEmptyDataSet (1.8.1)
+  - FSCalendar (2.8.2)
+  - IQKeyboardManager (6.5.9)
+  - Masonry (1.1.0)
+  - SDAutoLayout (2.2.1)
+  - SVProgressHUD (2.2.5)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - DZNEmptyDataSet (~> 1.8.1)
+  - FSCalendar
+  - IQKeyboardManager
+  - Masonry (~> 1.1.0)
+  - SDAutoLayout
+  - SVProgressHUD
+  - YYModel
+
+SPEC REPOS:
+  trunk:
+    - DZNEmptyDataSet
+    - FSCalendar
+    - IQKeyboardManager
+    - Masonry
+    - SDAutoLayout
+    - SVProgressHUD
+    - YYModel
+
+SPEC CHECKSUMS:
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  IQKeyboardManager: 241cc94ccabc9deb8f8bd7d12f00d73288d13ecc
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 0836bd29b06657ad63ffbfc0e06d900ebf2972ae
+
+COCOAPODS: 1.11.2
